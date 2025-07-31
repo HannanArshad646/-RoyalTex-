@@ -17,8 +17,8 @@
 
 .product-button {
   position: absolute;
-  top: 50px;
-  left: 1000px;
+  top: 30%;
+  left: 11%;
   background-color: rgba(255, 255, 255, 0.8);
   color: #000;
   padding: 8px 15px;
